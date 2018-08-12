@@ -1,4 +1,3 @@
+CUT V1.7.0
+1234567890
 Git is a version control system.
-Git is free software.
-23333333
-立刻 部署
